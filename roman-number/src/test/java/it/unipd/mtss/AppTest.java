@@ -1,9 +1,10 @@
+////////////////////////////////////////////////////////////////////
+// LEONARDO BORSAN 2101098 
+// ELIA LEONETTI 2009998 
+////////////////////////////////////////////////////////////////////
+
+
 package it.unipd.mtss;
-
-import static org.junit.Assert.assertTrue;
-
-import org.junit.Test;
-
 /**
  * Unit test for simple App.
  */
@@ -12,9 +13,4 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-    @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
-    }
 }
